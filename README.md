@@ -1,6 +1,6 @@
 # Endless Runner 3D Game
 
-This is a 3D endless runner game made with Unity. The game is a simple endless runner where the player has to avoid obstacles. The game is made with Unity 2021.3.18f1.The game is available to play on [itch.io](https://mjcheonma.itch.io/endless-runner) in the browser or can be downloaded for Windows or macOS.
+This is a 3D endless runner game made with Unity. The game is a simple endless runner where the player has to avoid obstacles. The game is made with Unity 2022.3.9f1.The game is available to play on [itch.io](https://mjcheonma.itch.io/endless-runner) in the browser or can be downloaded for Windows or macOS.
 
 ## How to Play
 
